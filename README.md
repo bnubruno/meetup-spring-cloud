@@ -1,8 +1,6 @@
 # Meetup Spring Cloud
 
-Bruno Muehlbauer de Souza
-Joinville-SC
-24/07/2019
+Bruno Muehlbauer de Souza - Joinville-SC - 24/07/2019
 
 ## Projetos
 
