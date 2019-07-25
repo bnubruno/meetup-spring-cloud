@@ -2,6 +2,8 @@
 
 Bruno Muehlbauer de Souza - Joinville-SC - 24/07/2019
 
+[Link da apresentação](https://docs.google.com/presentation/d/15nnuyRAoxqDU0OjcsZ3inWC5g2PXYNuUPo9hC74rjgk/edit?usp=sharing)
+
 ## Projetos
 
 ### Eureka
