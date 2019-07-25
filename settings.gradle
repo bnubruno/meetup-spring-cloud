@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
+rootProject.name = 'meetup-java'
+
+include('mss-eureka')
+include('mss-customer-api')
+include('mss-invoice-api')
+include('mss-gateway')
